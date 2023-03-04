@@ -4,10 +4,10 @@ Perkenalkan nama saya **YORDA WIRA ASWIN**.
 
 Saya seorang **QA Engineer** di [Avows Tegnologies](https://www.avowstech.com/).
 
-Saya bertanggung jawab pada kualitas materi Android dengan dibekali [Sertifikasi By Binar Academy](https://www.binaracademy.com/binar-bootcamp).
+Saya bertanggung jawab pada kualitas materi Android dengan dibekali [Sertifikasi By Binar Academy](https://drive.google.com/file/d/1C8RHDrdduUyHeWIlV-g5iafLgd3MMiHL/view?usp=sharing).
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/yorda-wira-aswin-a12a64202/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yorda-wira-aswin-a12a64202/)ku ya.
 
 <p align="left">
 <a href="https://github.com/yordawira">
